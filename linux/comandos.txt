@@ -1,0 +1,69 @@
+cat -n bemvindo.txt
+imprime no terminal o conteudo do arquivo
+
+clear
+limpa terminal
+
+pwd
+caminho do diretorio
+
+ls -la
+listagem de arquivos
+
+
+echo "texto" > arquivo.txt
+grava no arquivo
+
+echo "texto" >> arquivo.txt
+grava no arquivo mais uma linha
+
+mkdir nome
+cria diretorio
+
+rm nome
+deleta arquivo
+
+rm -r nome
+deleta pasta
+
+cp
+copiar
+
+cp -r
+copiar diretorio
+
+mv
+mover
+
+zip -rq
+compacta diretorio
+
+unzip -l
+velifica o que tem dentro do zip
+
+unzip
+descompacta diretorio
+
+touch
+muda a data de modificação do arquivo
+
+date
+data atual do sistema
+
+date --help
+lista de comandos para formatação
+
+date "+%d de %B de %Y"
+28 de abril de 2020
+
+
+head -n 3 arquivo.text
+le apenas 3 linhas
+
+tail -n 3 arquivo.text
+3 ultimas linhas
+
+less
+navegar no arquivo
+
+

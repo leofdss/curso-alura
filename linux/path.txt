@@ -1,0 +1,12 @@
+env
+variaveis de ambiente
+
+env | grep PATH
+variaveis de ambiente com nome PATH
+
+PATH=$PATH:/diretorio
+diciona diretorio no path para execução
+
+~/bashrc
+arquivo que configura terminal
+

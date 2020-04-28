@@ -1,0 +1,9 @@
+ssh -x
+modo grafico
+
+scp arquivo usuario@ip:localização
+envia arquivo via ssh
+
+scp -r diretorio usuario@ip:localização
+envia diretorio via ssh
+

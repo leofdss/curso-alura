@@ -1,0 +1,63 @@
+i
+modo de inserção
+
+esc
+modo de navegação
+
+:
+modo terminal
+
+:w
+salvar
+
+:q
+sair
+
+x
+deleta caracter atual
+
+11x
+deleta 11 vezes
+
+dd
+remove linha
+
+:q!
+sai sem salvar
+
+a
+adiciona no proximo caracter
+
+A
+adiciona no final da linha
+
+G
+ultima linha
+
+0G
+linha zero
+
+/
+modo de busca
+n navega no modo de busca
+
+0
+inicio da linha
+$ final da linha
+
+yy
+copia linha
+
+p
+cola
+
+3yy
+copia 3 linha
+
+3p
+cola 3 vezes
+
+
+
+
+

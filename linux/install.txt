@@ -1,0 +1,34 @@
+apt-cache search
+busca programa na lista do apt
+
+apt install
+instala
+
+apt remove
+remove
+
+apt update
+atualiza base de dados
+
+apt upgrade
+atualiza sistema
+
+
+
+
+sudo dpkg -i 
+instala pacote .deb
+
+sudo dpkg -r
+remove pacote .deb
+
+
+
+tar zxf
+descompacta arquivo
+./configure
+make
+sudo make install
+
+
+

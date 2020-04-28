@@ -1,0 +1,11 @@
+passwd
+muda senha
+
+whoami
+nome do usuario atual
+
+su usuario
+loga como outro usuario
+
+adduser
+adiciona usuario

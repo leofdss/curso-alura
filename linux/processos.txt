@@ -1,0 +1,72 @@
+ps
+lista
+
+ps -e
+lista todos
+
+kill id
+termina processo
+
+kill -9 id
+mata processo travou
+
+ps -ef | grep firefox
+mostra so as linhas com a palavra firefox
+
+top
+monitoramento
+
+killall -9 firefox
+mata todos processos com o nome firefox
+
+pstree
+arvore de processos
+
+control + z
+coloca processo em background
+
+jobs
+processos em background
+
+bg 1
+inicia processo em background
+
+fg 1
+pausa processo em background
+
+firefox &
+roda em background
+
+
+u usuario g grupo o outros
+   rwx      rwx     rwx
+d diretorio
+r leitura
+w escrita
+x execução
+
+chmod u+x arquivo
+adiciona a permição de execução
+
+chmod u-x arquivo
+remove a permição de execução
+
+sh arquivo
+executa arquivo
+
+locate firefox
+busca arquivo com nome fifefox
+
+sudo updatedb
+atualiza db do ubuntu
+
+whitch firefox
+indica o arquivo que vai ser executado
+
+
+/usr/bin/
+local que fica os scripts
+
+
+
+

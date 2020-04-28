@@ -1,0 +1,9 @@
+sudo service serviço stop
+para serviço
+
+sudo service serviço start
+inicia serviço
+
+/etc/init.d
+scripts executados na inicialização
+
