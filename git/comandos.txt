@@ -1,0 +1,39 @@
+git checkout
+desfazem alterações antes de adicioná-las
+
+git reset
+depois de adicioná-las, mas antes de commitá-las
+
+git revert
+e após realizar o commit
+
+git stash
+salva temporariamente
+
+git stash pop
+volta o que tava salvo
+
+git stash apply 0
+volta o que ta salvo no 0
+
+git stash drop 0
+apaga o que tava salvo no 0
+
+git diff id..id
+direfença entre commits
+
+git cherry-pick id
+traz o commit de outra branch
+
+git bisect bad HEAD
+git bisect good c17076a
+git bisect bad
+git bisect good
+git bisect reset
+navegando entre os commit para encontrar bug
+
+git blame
+mostra responsavel pela linha
+
+
+
